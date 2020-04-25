@@ -1,4 +1,4 @@
 (executable
  (public_name lisp)
  (name main)
- (libraries lisp parsexp base))
+ (libraries lisp parsexp base sexparser))
